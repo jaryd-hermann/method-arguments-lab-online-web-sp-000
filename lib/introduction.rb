@@ -1,5 +1,5 @@
 def introduction(name)
-  puts "I am #{name}"
+  puts "Hi my name is #{name}"
 end
 
 def introduction_with_language(name, language)
